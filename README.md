@@ -1,4 +1,4 @@
-# challengeBI-2ª semana
+# Challenge BI - 2ª semana
 
 <H1>Dashboard de Marketing</H1>
 
